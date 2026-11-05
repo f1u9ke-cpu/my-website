@@ -6,5 +6,5 @@ window.SITE_CONFIG = {
   lineId: 'your-line-id',
   lineUrl: 'https://line.me/ti/p/~your-line-id',
   // 部署 Apps Script 網頁應用程式後，把 /exec 完整網址貼在下面。
-  googleAppsScriptUrl: 'https://script.google.com/macros/s/AKfycbz5EiAdEuOozEnXhrI1Br9FucWZHyz61AjZDeNDrJVBKoh-CcT1nqCgW4q_j7RCsTeW/exec'
+  googleAppsScriptUrl: 'https://script.google.com/macros/s/AKfycbwVfhRn9qKgZkmTwJl2x5hRaq10Pc5tHFL-K52tB-YQFGx0kn-z07szQN0yzKLxqxM/exec'
 };
